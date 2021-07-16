@@ -1,4 +1,4 @@
-jugindde45/jugindde45/jugindde45/
+this tool owner Aryan warrior
 
 import requests
 import threading
